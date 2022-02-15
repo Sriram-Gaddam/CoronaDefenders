@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56180112/153920462-c5e84e8d-b734-44da-a490-f41aa1135b55.png" alt="Header Image"/>
+  <img src="https://user-images.githubusercontent.com/56180112/153970095-7e64a683-7fab-45a3-a3bb-4a8c1adfb968.png" alt="Header Image"/>
 </p>
 Are you ready to defend against the legion of viruses headed your way? Defend yourself with hand sanitizer towers in this educational tower defense game about the coronavirus.
 
